@@ -1,3 +1,16 @@
+//Ankit Bhatnagar
+//ankit.bhatnagarindia@gmail.com
+//
+//June 27 2018
+
+This library provides Google TOTP code generated.
+
+Modified from C++(cpp) to C from the original repositorty ArduinoLib_TOTP at https://github.com/ankitmcgill/ArduinoLib_TOTP.
+
+------------------------
+Original README below
+------------------------
+
 This is an Arduino library to generate TOTP codes based on the OpenAuthentication Time-based One-time Password Algorithm (RFC 6238)
 
 
